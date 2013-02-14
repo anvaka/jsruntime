@@ -1,0 +1,26 @@
+body {
+    margin-top: -15px;
+    font-size: 11px !important;
+    font-family: Menlo, monospace;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;    
+}
+p { 
+    margin: 0 6px;
+}
+.label {
+    width: 68px;
+    display: inline-block;
+    text-align: right;
+}
+form {
+    padding-top: 3px;
+}
+.submitP {
+    text-align: center;
+    margin-top: 4px;
+}
