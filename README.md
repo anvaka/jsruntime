@@ -7,3 +7,4 @@ It allows developers to explore javascript objects graph in memory. You can sear
 
 Be careful though - it uses regex to find properties. You can easily hang your browser if your object model is large.
 
+[See video](http://www.youtube.com/watch?v=x91YVWQsw2g) of it in action.
