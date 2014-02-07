@@ -7,9 +7,9 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-    overflow: hidden;    
+    overflow: hidden;
 }
-p { 
+p {
     margin: 0 6px;
 }
 .label {

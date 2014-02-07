@@ -30,5 +30,4 @@ window.addEventListener('load', function () {
 
     var searchForm = document.getElementById('search');
     searchForm.addEventListener('submit', onSearch);
-    debugger;
 });
