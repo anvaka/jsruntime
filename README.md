@@ -3,7 +3,8 @@ jsruntime
 
 This is a [Google Chrome extension](https://chrome.google.com/webstore/detail/js-runtime-inspector/iilpjebedgohcmlffhnkhbjhabkdhfmn ) to explore javascript runtime.
 
-It allows developers to explore javscript objects graph in memory. You can search objects by property names or values.
+It allows developers to explore javascript objects graph in memory. You can search objects by property names or values.
 
 Be careful though - it uses regex to find properties. You can easily hang your browser if your object model is large.
 
+[See video](http://www.youtube.com/watch?v=x91YVWQsw2g) of it in action.
